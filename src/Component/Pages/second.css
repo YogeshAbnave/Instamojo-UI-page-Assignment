@@ -1,0 +1,136 @@
+body{
+    margin: 0px;
+}
+.box-body{
+    background-color: #f1f4f6;
+    height: 900px;
+    width: 100%;
+
+}
+.maincontainer{
+    background-color:#fff;
+    height: 350px;
+    width: 330px;
+    margin-left: 500px;
+    position: absolute;
+    margin-top: 50px;
+}
+.nav{
+    background-color: rgb(97, 115, 137);
+    height: 90px;
+}
+.nav p{
+    margin-left: 75px;
+    position: absolute;
+    margin-top: 23px;
+    font-size: 18px;
+    color: #fff;
+}
+.nav img{
+    background-color: #fff;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 25px;
+    border-radius: 3px;
+
+}
+.main-body{
+    background-color: #fff;
+     padding: 20px;
+     font-size: 18px;
+}
+.main-body label{
+    color:gray;
+    font-size: 16px;
+}
+input[type="text"] {
+    width: 270px;
+    height: 22px;
+    padding: 7px;
+    border-radius: 6px;
+    font-size: 20px;
+    
+   
+}
+.input-2 {
+    margin-top: 30px;
+  
+}
+
+
+
+.pay{
+    margin-top: 40px;
+    width: 290px;
+    height: 45px;
+    background-color: #2FBE6D;
+    color: #fff;
+    border-radius: 5px;
+    border-style: none;
+    font-size: 18px;
+}
+.footer-img{
+    display: flex;
+    position: absolute;
+    margin-top: 760px;
+    margin-left: 570px;
+}
+.footer-img p{
+    
+    color:rgb(155, 155, 155);
+    
+}
+.footer-img img{
+    padding-top: 15px;
+}
+
+/* second page */
+
+.change{
+    display: flex;
+    height: 7px;
+    cursor: pointer;
+}
+.change span{
+    margin-left: 100px;
+    color: #2199e8;
+}
+.instapay{
+    height: 15px;
+}
+.amount{
+    display: flex;
+    height: 35px;
+
+    
+}
+.amount span{
+    margin-left: 180px;
+    margin-top: 21px;
+}
+.your-details span{
+    color:rgb(155, 155, 155);
+}
+.your-details p{
+    margin-top: -6px;
+    margin-bottom: 1px;
+}
+.input-name{
+    padding-bottom: 20px;
+}
+.amount-hr{
+    position: relative;
+    
+}
+.inpute-page-2-name{
+    margin-top: 30px;
+    
+}
+.inpute-page-2-email{
+    margin-top: 30px;
+}
+.inpute-page-2-phone{
+    margin-top: 30px;
+}
